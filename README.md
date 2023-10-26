@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yogamahastya.com">Yoga Mahastya</a></b>
+                <b><a target="_blank" href="">Yoga Mahastya</a></b>
         </samp>
 </h3>
 
