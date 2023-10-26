@@ -24,9 +24,9 @@
  <a href="https://yogamahastya.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="yogamahastya" />
  </a>
- <a href="https://linkedin.com/in/yogamahastya" target="_blank">
+ <!--<a href="https://linkedin.com/in/yogamahastya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yogamahastya"/>
- </a>
+ </a>-->
  <a href="https://dev.to/yogamahastya" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="yogamahastya" />
  </a>
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 <br/>
-
+<!--
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -111,3 +111,4 @@
   <a href="https://github.com/yogamahastya"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yogamahastya&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+-->
