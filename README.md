@@ -33,7 +33,7 @@
  <a href="https://twitter.com/yogamahastya_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/yogamahastya.dev" target="_blank">
+ <a href="https://instagram.com/yogamahastya" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="yogamahastya" />
  </a> 
  <a href="https://facebook.com/yogamahastya" target="_blank">
